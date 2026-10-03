@@ -1,0 +1,5 @@
+{
+  "name": "fed-edu-org-onboarding",
+  "compatibility_date": "2026-09-25",
+  "assets": { "directory": ".", "html_handling": "auto-trailing-slash" }
+}

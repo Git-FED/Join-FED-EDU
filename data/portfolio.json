@@ -1,0 +1,13 @@
+{
+  "project": "fed-edu GitHub Organization Onboarding",
+  "organization": "https://github.com/fed-edu",
+  "administrator": "https://github.com/git-fed",
+  "version": "0.1.0",
+  "contact": {
+    "general": "contact@fedpromptly.com",
+    "support": "support@fedpromptly.com",
+    "business": "business@fedpromptly.com",
+    "careers": "careers@fedpromptly.com"
+  },
+  "steps": ["follow organization", "accept organization invitation", "accept team invitation"]
+}
