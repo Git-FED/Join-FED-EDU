@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/fed-edu/fed-edu-org-onboarding/discussions
+    about: Ask a general question or share an onboarding improvement idea.
+  - name: Support email
+    url: mailto:support@fedpromptly.com
+    about: Contact support privately when an issue would contain sensitive information.

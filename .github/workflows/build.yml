@@ -1,0 +1,27 @@
+name: Build and validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Markdown when Node tooling is present
+        shell: bash
+        run: |
+          if [ -f package.json ]; then npm ci; fi
+          if command -v npx >/dev/null 2>&1; then npx --yes markdownlint-cli2 '**/*.md' || true; fi
+      - name: Check required onboarding files
+        shell: bash
+        run: |
+          test -f README.md
+          test -f docs/00-onboarding-checklist.md
+          test -f docs/02-accept-organization-invite.md
+          test -f docs/03-accept-team-invite.md
