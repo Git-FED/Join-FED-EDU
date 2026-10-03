@@ -9,6 +9,7 @@
 
 ## Join the ecosystem
 
+- [Git-FED main GitHub profile](https://github.com/Git-FED)
 - [FED-OS](https://www.fedpromptly.org)
 - [Membership](https://www.fedpromptly.com/aid)
 - [Storefront](https://www.jabburr.com/fed-os)

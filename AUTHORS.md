@@ -1,4 +1,4 @@
 # Authors
 
-- [@git-fed](https://github.com/git-fed)
+- [Git-FED](https://github.com/Git-FED)
 - FED-OS contributors

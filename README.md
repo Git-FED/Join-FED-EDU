@@ -4,6 +4,10 @@ Welcome to the **fed-edu GitHub Organization Onboarding** repository. This guide
 
 This repository is an onboarding guide—not a software package. You do not need to install anything to follow the steps.
 
+## Start with Git-FED
+
+The main profile behind this onboarding guide is **[Git-FED](https://github.com/Git-FED)**. Visit the profile to learn more about the administrator and related work, then use the **[fed-edu organization page](https://github.com/fed-edu)** when you are ready to follow the organization and request an invitation.
+
 ## Onboarding flow
 
 1. **Follow the organization:** Visit [github.com/fed-edu](https://github.com/fed-edu) and select **Follow**.
@@ -14,6 +18,8 @@ This repository is an onboarding guide—not a software package. You do not need
 
 ## Quick links
 
+- [Git-FED main profile](https://github.com/Git-FED)
+- [fed-edu GitHub organization](https://github.com/fed-edu)
 - [Onboarding checklist](docs/00-onboarding-checklist.md)
 - [Follow the organization](docs/01-follow-organization.md)
 - [Accept the organization invitation](docs/02-accept-organization-invite.md)

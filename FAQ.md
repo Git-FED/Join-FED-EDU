@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## Where can I find the main profile?
+
+The main profile is [Git-FED](https://github.com/Git-FED). Use [fed-edu](https://github.com/fed-edu) for the organization onboarding flow.
+
 ## Is following the organization the same as joining it?
 
 No. Following starts the onboarding process. You become a member only after accepting the invitation.

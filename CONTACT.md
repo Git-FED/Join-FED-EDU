@@ -1,5 +1,9 @@
 # Contact — FED-OS / fed-edu
 
+## Main GitHub profile
+
+For the person and projects behind this organization, visit the main profile: **[Git-FED](https://github.com/Git-FED)**. The organization itself is **[fed-edu](https://github.com/fed-edu)**.
+
 | Purpose | Email | Response target |
 | --- | --- | --- |
 | General | [contact@fedpromptly.com](mailto:contact@fedpromptly.com) | 3–5 business days |

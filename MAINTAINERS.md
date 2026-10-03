@@ -2,4 +2,4 @@
 
 | Handle | Responsibility |
 | --- | --- |
-| [@git-fed](https://github.com/git-fed) | Organization administrator and project owner |
+| [Git-FED](https://github.com/Git-FED) | Organization administrator and project owner |
